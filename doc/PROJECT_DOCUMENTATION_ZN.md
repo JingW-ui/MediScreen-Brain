@@ -1222,7 +1222,7 @@ in diagnosis or classification of any medical problems or other medical purposes
 ### 团队与个人
 
 - **研发团队**：[电子科技大学神经工程实验室](https://www.neuro.uestc.edu.cn/)
-- **开发者主页**：[JingW-ui](https://jingw-ui.github.io/resume/)
+- **开发者主页**：[JingW-ui](https://jingw-ui.github.io/resume/)、[MYiuCode](https://github.com/MYiuCode)
 
 ---
 

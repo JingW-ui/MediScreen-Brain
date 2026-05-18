@@ -1226,7 +1226,7 @@ This project is for academic research and teaching use only. For commercial use,
 ### Team & Developer
 
 - **Research Team**: [Neuroengineering Lab, UESTC](https://www.neuro.uestc.edu.cn/)
-- **Developer Portfolio**: [JingW-ui](https://jingw-ui.github.io/resume/)
+- **Developer Portfolio**: [JingW-ui](https://jingw-ui.github.io/resume/)、[MYiuCode](https://github.com/MYiuCode)
 
 ---
 
